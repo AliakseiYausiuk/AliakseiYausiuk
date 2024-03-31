@@ -22,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakseiyausiuk&show_icons=true&locale=en&layout=compact" alt="aliakseiyausiuk" /></p>
 
 ![codewars](https://www.codewars.com/users/AliakseiYausiuk/badges/small)
-![leetcode](https://leetcode.com/AliakseiYausiuk/badges/small)
